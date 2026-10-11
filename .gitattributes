@@ -1,0 +1,4 @@
+*.slx binary
+*.mat binary
+*.m   text
+*.csv text

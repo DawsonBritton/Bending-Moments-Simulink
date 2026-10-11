@@ -1,0 +1,11 @@
+# Simulink build cache and generated code (rebuilt automatically)
+slprj/
+*.slxc
+
+# Autosave and editor backup files
+*.autosave
+*.asv
+*.m~
+
+# Unnamed workspace save, not loaded by Setup.m or the model
+/.mat
