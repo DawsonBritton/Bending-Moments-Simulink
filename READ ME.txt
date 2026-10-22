@@ -1,0 +1,1 @@
+This is a finished simulation however there may be updates in the future currently the connected CSVs are from open rocket which isn't great at supersonic flight so soon they will be updated to rasaero II im unsure how well it will transfer to google drive but as long as everything is in the same folder there should be no file path errors
